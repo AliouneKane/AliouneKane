@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a senegalese ![Uploading image.png…]()
- engineering student in his 2 second year really interested in entrepreneurship and on his way to create a business that will combine my passion for business, tech and maximize everything I learned from school and entrepreneurship world in the field of AI and datascience.<br>My dayjob : solving problems with data.
+I am a senegalese engineering student in his 2 second year really interested in entrepreneurship and on his way to create a business that will combine my passion for business, tech and maximize everything I learned from school and entrepreneurship world in the field of AI and datascience.<br>My dayjob : solving problems with data.
 
 
 ## 🌐 Socials:
