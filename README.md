@@ -1,85 +1,104 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Engineering+Student;Data+Science+Enthusiast;Future+Entrepreneur;Building+the+Future+with+AI" alt="Typing SVG" />
-  </a>
+# 👋 Salut, je suis Alioune Kane
 
-  <p align="center">
-    👋 I'm <b>Alioune Kane</b>, a Senegalese Engineering Student specializing in <b>Data Science & AI</b>.
-    <br/> 
-    I bridge the gap between technical innovation and business strategy.
-  </p>
+### 🚀 Data Scientist | Entrepreneur | AI Enthusiast
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/alioune-kane-a2a25a258/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/abdousalamkane_">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-    <a href="mailto:kalioune879@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-  </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Résoudre+des+problèmes+avec+la+data;Construire+l'avenir+avec+l'IA;Transformer+les+idées+en+réalité" alt="Typing SVG" />
 
-  <br/>
+</div>
 
-  ---
+---
 
-  ### 🛠️ Tech Stack & Arsenal
+## 💡 À Propos
 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+Étudiant ingénieur sénégalais en 2ème année, passionné par l'intersection entre **tech, business et entrepreneuriat**. Je construis actuellement un projet qui combine mes compétences en IA, data science et ma vision entrepreneuriale.
+
+**Ma mission quotidienne :** Résoudre des problèmes complexes avec la data et créer de la valeur à travers l'innovation technologique.
+
+<div align="center">
+
+### 🌐 Restons Connectés
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alioune-kane-a2a25a258/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdousalamkane_?igsh=MWRtdHluNGpsN2ZjYg%3D%3D&utm_source=qr)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalioune879@gmail.com)
+
+</div>
+
+---
+
+## 🛠️ Stack Technique
+
+<div align="center">
+
+### Langages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Data Science & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+### Visualisation & Outils
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### Cloud & Design
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
   
-  <br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AliouneKane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AliouneKane&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
 
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  
-  <br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliouneKane&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&layout=compact&langs_count=8" />
 
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+</div>
 
-  <br/>
-  <br/>
+---
 
-  ---
+## 🏆 Accomplissements
 
-  ### 📊 Data & Analytics
+<div align="center">
 
-  <table style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=AliouneKane&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliouneKane&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
+![](https://github-profile-trophy.vercel.app/?username=AliouneKane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliouneKane&theme=tokyonight&hide_border=true" alt="Streak" />
-  
-  <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=AliouneKane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
-  ---
+---
 
-  ### 🧠 Daily Inspiration
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<div align="center">
 
-  <br/>
+### 💭 Citation du Jour
 
-  <img src="https://visitcount.itsvg.in/api?id=AliouneKane&icon=5&color=4285F4" />
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+
+---
+
+### 📈 Profil Visiteurs
+
+![](https://visitcount.itsvg.in/api?id=AliouneKane&icon=6&color=6)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**💼 Ouvert aux opportunités | 🤝 Toujours partant pour collaborer | 🚀 En construction permanente**
 
 </div>
