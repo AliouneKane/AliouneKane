@@ -4,7 +4,7 @@
 
 ### 🚀 Data Scientist | Entrepreneur | AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Résoudre+des+problèmes+avec+la+data;Construire+l'avenir+avec+l'IA;Transformer+les+idées+en+réalité" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=R%C3%A9soudre+des+probl%C3%A8mes+avec+la+data;Construire+l'avenir+avec+l'IA;Transformer+les+id%C3%A9es+en+r%C3%A9alit%C3%A9)](https://git.io/typing-svg)
 
 </div>
 
