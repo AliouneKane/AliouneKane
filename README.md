@@ -64,10 +64,10 @@
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AliouneKane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AliouneKane&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=AliouneKane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=AliouneKane&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliouneKane&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AliouneKane&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&layout=compact&langs_count=8" />
 
 </div>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=AliouneKane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+![](https://github-trophies.vercel.app/?username=AliouneKane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
