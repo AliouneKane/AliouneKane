@@ -85,13 +85,13 @@
 
 ### 💭 Citation du Jour
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds)
 
 ---
 
 ### 📈 Profil Visiteurs
 
-![](https://visitcount.itsvg.in/api?id=AliouneKane&icon=6&color=6)
+![](https://komarev.com/ghpvc/?username=AliouneKane&color=6366F1&style=for-the-badge&label=Profile+Views)
 
 ---
 
